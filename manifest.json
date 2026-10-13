@@ -3,13 +3,12 @@
   "name": "Fall Manage",
   "short_name": "FallManage",
   "description": "Fall Manage product and order management app",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#1649a3",
   "theme_color": "#123b7a",
-  "lang": "en",
+  "orientation": "portrait",
 "icons": [
   {
     "src": "./icons/icon-192.png",
